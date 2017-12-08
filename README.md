@@ -19,4 +19,10 @@ What was used in the creation process.
 
 ---
 
+<h3>To Do:</h3>
+
+* Fix loops to stop columns from printing twice
+
+---
+
 This was originally created as a final project in CSC443 (Database Management Systems). It has undergone changes since then.
