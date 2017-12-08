@@ -23,6 +23,8 @@ What was used in the creation process.
 
 * Fix loops to stop columns from printing twice
 
+* Add more interface options
+
 ---
 
 This was originally created as a final project in CSC443 (Database Management Systems). It has undergone changes since then.
