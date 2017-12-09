@@ -3,9 +3,9 @@ Track incidents and interface with your database through a webpage
 
 ---
 
-[*history.php*](https://github.com/magarenzo/incident-system/blob/master/history.php) is a webpage in which a user can enter an incident ID number and a history report for that incident is formatted and printed to the screen. Pressing submit activates a query which has been stored in a [view](https://github.com/magarenzo/incident-system/blob/master/psql/view.txt).
+[*history.php*](https://github.com/magarenzo/incident-system/blob/master/history.php) is a webpage in which a user can enter an incident ID number and a history report for that incident is formatted and printed to the screen. Pressing submit activates a query which has been stored in a view.
 
-The [tables](https://github.com/magarenzo/incident-system/blob/master/psql/tables.sql) and [data](https://github.com/magarenzo/incident-system/blob/master/psql/data.sql) in the database that the program queries the report from can be seen in the [psql directory](https://github.com/magarenzo/incident-system/tree/master/psql). You can also view the [schema](https://github.com/magarenzo/incident-system/blob/master/diagrams/scehma.PNG) for this project.
+You can see the [tables](https://github.com/magarenzo/incident-system/blob/master/tables.sql) and [sample data](https://github.com/magarenzo/incident-system/blob/master/data.sql) in the database that the program queries the report from. You can also view the [schema](https://github.com/magarenzo/incident-system/blob/master/diagrams/scehma.PNG) for this project.
 
 The PDF files in the [diagrams directory](https://github.com/magarenzo/incident-system/tree/master/diagrams) are based off of the given [case study](https://github.com/magarenzo/incident-system/blob/master/case-study.PNG), though the program does not fully represent what they system should be able to do.
 
