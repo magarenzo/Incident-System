@@ -3,7 +3,7 @@ Track incidents and interface with your database through a webpage
 
 ---
 
-[*history.php*](https://github.com/magarenzo/incident-system/blob/master/history.php) is a webpage in which a user can enter an incident ID number and a history report for that incident is formatted and printed to the screen. Pressing submit activates a query which has been stored in a view.
+[*history.php*](https://github.com/magarenzo/incident-system/blob/master/history.php) is a webpage in which a user can enter an incident identification number and a history report for that incident is formatted and printed to the screen. Pressing submit activates a query which has been stored in a view.
 
 You can see the [tables](https://github.com/magarenzo/incident-system/blob/master/tables.sql) and [sample data](https://github.com/magarenzo/incident-system/blob/master/data.sql) in the database that the program queries the report from. You can also view the [schema](https://github.com/magarenzo/incident-system/blob/master/diagrams/scehma.PNG) for this project.
 
