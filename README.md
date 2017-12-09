@@ -7,7 +7,7 @@ Track incidents and interface with your database through a webpage
 
 You can see the [tables](https://github.com/magarenzo/incident-system/blob/master/tables.sql) and [sample data](https://github.com/magarenzo/incident-system/blob/master/data.sql) in the database that the program queries the report from. You can also view the [schema](https://github.com/magarenzo/incident-system/blob/master/diagrams/scehma.PNG) for this project.
 
-The PDF files in the [diagrams directory](https://github.com/magarenzo/incident-system/tree/master/diagrams) are based off of the given [case study](https://github.com/magarenzo/incident-system/blob/master/case-study.PNG), though the program does not fully represent what they system should be able to do.
+The PDF files in the [diagrams directory](https://github.com/magarenzo/incident-system/tree/master/diagrams) are based off of the given [case study](https://github.com/magarenzo/incident-system/blob/master/case-study.PNG), though the program does not fully represent what the system is entailed to be able to do.
 
 The diagrams are as follows:
 
