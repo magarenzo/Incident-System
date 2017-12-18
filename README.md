@@ -22,9 +22,11 @@ The diagrams are as follows:
 <h3>Output:</h3>
 
 Homepage
+
 ![](https://github.com/magarenzo/incident-system/blob/master/screenshots/homepage.PNG)
 
 History Report for Incident ID#2
+
 ![](https://github.com/magarenzo/incident-system/blob/master/screenshots/report.PNG)
 
 ---
