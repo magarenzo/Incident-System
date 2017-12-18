@@ -39,7 +39,7 @@ The diagrams are as follows:
 
 <h3>To Do:</h3>
 
-* Fix loops to stop columns from printing twice
+* Fix loops to stop data from printing twice
 
 * Add more interface options
 
