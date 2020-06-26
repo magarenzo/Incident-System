@@ -40,6 +40,6 @@ The diagrams are as follows:
 
 ## Owner
 
-* Michael A. Agarenzo
+Michael A. Agarenzo
 
-* This was originally created as a final project in CSC443 (Database Management Systems). It has undergone changes since then.
+This was originally created as a final project in CSC443 (Database Management Systems) and it has undergone changes since then
