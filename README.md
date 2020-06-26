@@ -42,4 +42,4 @@ The diagrams are as follows:
 
 Michael A. Agarenzo
 
-This was originally created as a final project in CSC443 (Database Management Systems) and it has undergone changes since then
+This was originally created as a final project in CSC443 (Database Management Systems) and it has undergone some changes since then
