@@ -22,7 +22,7 @@ These diagrams are based off of the given [case study](media/case-study.PNG), th
 
 ![](media/homepage.PNG)
 
-#### Submitted '2'
+#### Submitted "2"
 
 ![](media/report.PNG)
 
