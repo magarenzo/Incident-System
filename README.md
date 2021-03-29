@@ -38,6 +38,6 @@ These diagrams are based off of the given [case study](media/case-study.PNG), th
 
 ## Owner
 
-[Michael A. Agarenzo](https://magarenzo.com)
+[Michael A.](https://linkedin.com/in/magarenzo)
 
 This was originally created as a final project in CSC443 (Database Management Systems) and it has undergone some changes since then
